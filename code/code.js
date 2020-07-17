@@ -10,7 +10,7 @@ function styleHyphenFormat(propertyName) {
         
       if (match == '{0}'){
          return 'Jack'
-
+          asdklasdl;asd;l
       }
       else if (match == '{1}'){
        return 'sandwich'
